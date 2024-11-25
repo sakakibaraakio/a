@@ -64,14 +64,24 @@
       "@value": ""
     },
     "objectives": {
-      "@value": ""
+      "@value": "I want to help Cardano grow in a healthy way."
     },
     "paymentAddress": {
-      "@value": ""
+      "@value": "addr1q93g08q3jhqz5z6w6lzqdv8ap3tv9hus2md2l6qxkzqt3jgmapfv50sf458cqk6cdy5rsk79usjm4hsptkjjmsy4sd0qhptg70"
     },
     "qualifications": {
-      "@value": ""
+      "@value": "I have been a Cardano community member since 2017 and a single pool SPO since 2020."
     },
-    "references": []
+    "references": [
+      {
+        "@type": "Link",
+        "label": {
+          "@value": "Label"
+        },
+        "uri": {
+          "@value": "https://x.com/sakakibara1JPN"
+        }
+      }
+    ]
   }
 }
